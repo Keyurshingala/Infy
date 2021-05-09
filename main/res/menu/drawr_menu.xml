@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drwrHome"
+            android:title="Home" />
+        <item
+            android:id="@+id/drwrUser"
+            android:title="Users" />
+        <item
+            android:id="@+id/drwrPost"
+            android:title="Post" />
+        <item
+            android:id="@+id/drwrDataBase"
+            android:title="DataBase" />
+    </group>
+</menu>
